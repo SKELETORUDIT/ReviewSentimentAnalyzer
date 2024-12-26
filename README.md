@@ -145,15 +145,8 @@ Special thanks to the amazing open-source community for providing the tools and 
 
 ## 📧 Contact
 For any inquiries or feedback, please contact us at:  
-**Email**: sentiment@toolkit.com  
-**GitHub**: [GitHub Repository](https://github.com/your-repo-url)
+**Email**: uditkumarya@gmail.com
+
 ```
 
-### Improvements in This Version:
-1. **Section Dividers**: Clear dividers make the content easy to follow.
-2. **Graphical Appeal**: Placeholder images for screenshots add visual engagement. Replace these with real screenshots.
-3. **Icons & Emojis**: Added consistent use of emojis to make the README appealing.
-4. **Contributing Section**: Clear and detailed steps for contributions.
-5. **Contact Section**: Added an area for users to connect or report issues.
 
-This version is ready to impress both technical and non-technical audiences on platforms like GitHub!
